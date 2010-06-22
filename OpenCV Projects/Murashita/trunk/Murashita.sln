@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromaKey", "ChromaKey\ChromaKey.csproj", "{B8977957-9085-495D-841B-3595657957DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Janken with OpenCV", "Janken\Janken with OpenCV.csproj", "{FCCDC01B-AED4-4111-B871-615ED6C9C604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackerTest", "TrackerTest\TrackerTest.csproj", "{A42613FF-9C60-49CD-AB7E-D7B95E32DCC3}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8977957-9085-495D-841B-3595657957DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8977957-9085-495D-841B-3595657957DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8977957-9085-495D-841B-3595657957DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8977957-9085-495D-841B-3595657957DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCCDC01B-AED4-4111-B871-615ED6C9C604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCDC01B-AED4-4111-B871-615ED6C9C604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCDC01B-AED4-4111-B871-615ED6C9C604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCDC01B-AED4-4111-B871-615ED6C9C604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A42613FF-9C60-49CD-AB7E-D7B95E32DCC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42613FF-9C60-49CD-AB7E-D7B95E32DCC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42613FF-9C60-49CD-AB7E-D7B95E32DCC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42613FF-9C60-49CD-AB7E-D7B95E32DCC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
